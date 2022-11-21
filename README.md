@@ -6,4 +6,4 @@ This repo serves purpose of storing/sharing my C HackerRank solutions with other
 
 # quick side note :
 
-excluded multiple solutions to questions, hence i believed they are so unbelievably trivial anyone who want to pursue any level of C knowledge should be able to answer them
+excluded multiple solutions to questions, hence i believed they are so unbelievably trivial anyone who want to pursue any level of C knowledge should be able to come up with a solution.
