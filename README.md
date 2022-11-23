@@ -1,7 +1,7 @@
 # Thought on hackerRank
-I found the problems to be more or less beginner level despite what the difficulty says, non the less great practice for some one whose just getting into C, but if you have prior experience wouldnt really be challenging enough.
+I found the problems to be more or less beginner level despite what the difficulty says, non the less great practice for some one whose just getting into C or Java, but if you have prior experience then wont be as challenging as other websites.
 # Goal
-This repo serves purpose of storing/sharing my C HackerRank solutions with others in hope to help people learn.
+This repo serves purpose of storing/sharing my HackerRank solutions with others in hope to help people learn.
 
 # quick side note :
 
